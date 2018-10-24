@@ -13,3 +13,5 @@ if page.status_code == 200:
     print "The scraped title is: " + title + "\r\n"
 else:
     print "Error: Page did not return expected 200 OK\r\n"
+
+    
